@@ -1,3 +1,5 @@
+console.log("Program Started");
+
 var fs = require("fs");
 var data = '';
 
