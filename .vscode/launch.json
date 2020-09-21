@@ -11,6 +11,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
+            "program": "${workspaceFolder}/streams.js",
             "skipFiles": [
                 "<node_internals>/**"
             ]
