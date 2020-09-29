@@ -14,3 +14,4 @@ fs.writeFile('input.txt', 'Simply Easy Learning!', function(err){
         console.log("Asynchronous read: " + data.toString());
     });
 });
+
