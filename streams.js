@@ -1,3 +1,4 @@
+
 var fs = require("fs");
 var data = '';
 
@@ -9,7 +10,7 @@ readerStream.setEncoding('utf8');
 
 //handle stream events --> data, end, and error
 readerStream.on('data', function(chunk){
-    date += chunk;
+    data += chunk;
 });
 
 readerStream.on('end', function(){
