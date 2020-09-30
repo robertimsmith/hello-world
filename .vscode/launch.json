@@ -11,12 +11,10 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}/chaining_streams.js",
+            "program": "${workspaceFolder}/file_system_4.js",
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/file_system_read_file.js"
-            ]
         }
     ]
 }
