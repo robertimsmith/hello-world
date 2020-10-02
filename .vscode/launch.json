@@ -11,7 +11,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}/utility modules.js",
+            "program": "${workspaceFolder}/server.js",
             "skipFiles": [
                 "<node_internals>/**"
             ],
